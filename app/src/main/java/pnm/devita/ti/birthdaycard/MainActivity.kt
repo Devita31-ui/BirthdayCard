@@ -29,8 +29,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     GreetingImage(
-                        message = "Happy Birthday Sayang! 😘",
-                        from = "From Ayangmu"
+                        message = "Happy Birthday Bestie!😘",
+                        from = "From Igo"
                     )
                 }
             }
